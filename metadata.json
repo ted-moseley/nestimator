@@ -1,0 +1,5 @@
+{
+  "name": "Nestimator",
+  "description": "Real-time property demand and migration analyzer by Orlando Nest.",
+  "requestFramePermissions": ["geolocation"]
+}
